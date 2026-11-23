@@ -1,0 +1,13 @@
+{
+  "pv_kwp": 300.0,
+  "pr": 0.85,
+  "bat_kwh": 500.0,
+  "bat_kw": 125.0,
+  "eta": 0.95,
+  "soc0": 0.5,
+  "soc_min": 0.1,
+  "soc_max": 0.9,
+  "grid_max_kw": 250.0,
+  "export_price": 0.04,
+  "deg_cost": 0.02
+}
